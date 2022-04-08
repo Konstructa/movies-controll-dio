@@ -1,0 +1,24 @@
+* {
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.striped {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+}
+
+
+tr {
+  display: flex;
+  width: 500px;
+  justify-content: center;
+  gap: 20px;
+
+}
+
+h1 {
+  text-align: center;
+}
